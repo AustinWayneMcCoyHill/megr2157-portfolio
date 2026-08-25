@@ -5,7 +5,7 @@ theme:
   name: material
   palette: 
     primary: blue
-    secondary: black
+    secondary: red
   features:
     - navigation.instant
     - navigation.tracking
@@ -13,7 +13,6 @@ theme:
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
-  - Portfolio Overview: portfolio-overview.md
   - Assignments:
       - A1: assignments/A01/index.md
       - A2: assignments/A02/index.md
