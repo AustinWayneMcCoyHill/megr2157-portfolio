@@ -4,7 +4,8 @@
 
 
 ## Analyze
-  Task A: Portfolio analysis 
+  Task A: Portfolio analysis
+  
   1/2 (Evan Hoerl of Purdue University)
   https://ejhoerl.github.io/
   
