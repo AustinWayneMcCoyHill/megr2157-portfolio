@@ -39,7 +39,13 @@
         x = the deformation displacement of the spring (in this case, the opening width of the clamp)
       This model assumes negligible effects of gravity on the pages being held and negligible friction in the clamp.
 
-    c.
+    c. Photographs:
+    <img width="2252" height="4000" alt="paperBindingClipTop" src="https://github.com/user-attachments/assets/67a76ec4-7415-4bab-bd35-a43903b4f883" />
+<img width="2252" height="4000" alt="paperBindingClipAssemblyRight" src="https://github.com/user-attachments/assets/56d6df64-5b50-40ea-82ac-37615b3b8a40" />
+<img width="2252" height="4000" alt="paperBindingClipBody" src="https://github.com/user-attachments/assets/0182b88a-c153-41ed-acc6-ebb2d66e402d" />
+<img width="4000" height="2252" alt="paperBindingClipArm" src="https://github.com/user-attachments/assets/c08afab1-de1e-4097-a0bc-97615fd43d28" />
+<img width="4000" height="2252" alt="paperBindingClipFront" src="https://github.com/user-attachments/assets/00e4a15c-5cf1-4319-af8e-4b0fc84859f8" />
+
     
 
 ## Decide
