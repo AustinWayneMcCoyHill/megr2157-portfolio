@@ -2,7 +2,7 @@
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
-> **Engineering is the art of making decisions you can defend and/or get away with.**
+> **Engineering is the art of making decisions you can defend.**
 
 
 ## The three pillars
