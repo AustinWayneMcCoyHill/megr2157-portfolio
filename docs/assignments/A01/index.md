@@ -4,7 +4,8 @@
 
 
 ## Analyze
-  Task A: Portfolio analysis 1/2 (Evan Hoerl of Purdue University)
+  Task A: Portfolio analysis 
+  1/2 (Evan Hoerl of Purdue University)
   https://ejhoerl.github.io/
   
     The portfolio is well organized with multiple pieces of work documented with thumbnail pictures and detaileD
