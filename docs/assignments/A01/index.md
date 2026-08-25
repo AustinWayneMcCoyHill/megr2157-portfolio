@@ -1,6 +1,8 @@
 # A1 – [Create Portfolio]
 ## Decide
   The first design decision I made was in regards to the Home Page of the portfolio. I removed any item that was there for the benefit of the student as opposed to the supposed visitor. The banner picture and quote were kept purely for visual interest. As we progress through the semester I do intend to add relevant pictures of projects undertaken or links determined to be of significant value.
+  The second design decision I made was to eliminate the "Portfolio Overview" page. The functional reason for this is to eliminate redundancy.
+  This dovetails into my chosen documentation standard. In our current climate of AI generation there is a disturbing trend of needless verbosity. I am committed personally and professionally to communicating the most concise set of facts and information that sufficiently conveys the necessary information. In many cases, engineering communication is dense by necessity. Clarity and conciseness are equally important in effective technical communication.
 
 ## Analyze
   Task A: Portfolio analysis
