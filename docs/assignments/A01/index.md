@@ -40,7 +40,7 @@
       This model assumes negligible effects of gravity on the pages being held and negligible friction in the clamp.
 
     c. Photographs:
-      ![Central Body](paperBindingClipBody.jpg)
+  ![Central Body](paperBindingClipBody.jpg)
 
     
 
