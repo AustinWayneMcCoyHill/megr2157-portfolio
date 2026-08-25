@@ -1,4 +1,5 @@
-# A1 – [Topic]
+# A1 – [Create Portfolio]
+## Decide
 
 ## Objective
 
@@ -49,11 +50,12 @@
   ![Top Assembly View](paperBindingClipTop.jpg)
 
     d. Patent Research: Patent Number - US1139627A, Author - Louis E Baltzley
-      
+      Alternatives to paper binding clips include but are not limited to; rubber bands, paper clips, and hope.
+      The most notable design decision can be seen in the round wire of the arm components and their round corresponding slots
+      This allows for easy assembly of the components and gives added support to the pages clamped together when pivoted up against the pages. The patent describes this as the "closed position" I think the decision was made both for ease of construction and also to maximize the utility of what was (for the time) a fairly intricate method to hold peices of paper to gether.
 
     
 
-## Decide
 
 
 ## Communicate
