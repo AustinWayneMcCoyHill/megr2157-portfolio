@@ -1,8 +1,6 @@
 # A1 – [Create Portfolio]
 ## Decide
-
-## Objective
-
+  The first design decision I made was in regards to the Home Page of the portfolio. I removed any item that was there for the benefit of the student as opposed to the supposed visitor. The banner picture and quote were kept purely for visual interest. As we progress through the semester I do intend to add relevant pictures of projects undertaken or links determined to be of significant value.
 
 ## Analyze
   Task A: Portfolio analysis
@@ -56,7 +54,4 @@
 
     
 
-
-
-## Communicate
 
