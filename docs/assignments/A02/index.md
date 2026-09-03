@@ -1,4 +1,4 @@
-<img width="437" height="208" alt="Given structure geometry" src="https://github.com/user-attachments/assets/b99f1507-8163-4873-aff5-ab559ce106fe" />
+
 # A2 – Truss Stress Analysis
 
 ## Objective
@@ -16,8 +16,15 @@ The failure modes of the truss structure and pins was also identified with desig
 
 ## Analyze
 
-The first step was to analyze the assigned structure.
-![Structure Assigned](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/docs/assignments/A02/Given structure geometry.png)
+The first step was to analyze the assigned structure:
+
+<img width="437" height="208" alt="Given structure geometry" src="https://github.com/user-attachments/assets/b99f1507-8163-4873-aff5-ab559ce106fe" />
+
+This was achieved by creating a free body diagram of the entire system (hand sketch):
+
+
+
+
 
 
 ## Decide
