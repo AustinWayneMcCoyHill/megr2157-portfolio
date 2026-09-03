@@ -166,7 +166,7 @@ This resulted in some added weight from the earlier approximation.
 This discrepancy is minor however (29.799 model vs 29.5544 calculated , overage of 0.84%).
 
 Models Can be downloaded here
-![A2 TRUSS.step] (https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/docs/assignments/A02/A2 TRUSS.step)
+[A2 TRUSS.step] (https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/docs/assignments/A02/A2 TRUSS.step)
 
 
 
