@@ -169,7 +169,8 @@ Models Can be downloaded here
 
 [TRUSS (STEP)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A02/A2_TRUSS.step)
 [TRUSS (FUSION)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A02/A2_TRUSS.f3d)
-[TRUSS with Pins (STEP)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A02/A2_TRUSS_w_PINS.step)
+[TRUSS with Pins (STEP)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A02/A2_TRUSSw_PINS.step)
+[TRUSS with Pins(FUSION)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A02/A2_TRUSSw_PINS.f3d)
 
 
 
