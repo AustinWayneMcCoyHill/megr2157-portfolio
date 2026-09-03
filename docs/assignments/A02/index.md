@@ -49,7 +49,7 @@ By calculating these forces it was noted that the downward force of P induces te
 
 ### Truss Force Calculations
 
-Next came everyone's favorite part of engineering, the long beloved and oft maligned "plug-and-chug".
+Next came everyone's favorite part of engineering, the long beloved and oft maligned " plug-and-chug™ ".
 Inputting the known values for P, a, b, and the derived d, the forces were calculated.
 The truss members BD and AC were in tension of magnitude 41.67 kN and the truss members BA and DC were in compression of magnitude 33.3 kN.
 
@@ -59,9 +59,38 @@ The truss members BD and AC were in tension of magnitude 41.67 kN and the truss 
 
 The next step in the design was to calculate the cross sectional area required.
 In order to achieve this step, outside information were required.
-
+Research was done in order to find the yield stress of ASTM A500 steel.
+source : Alliance Tubular Products:
 https://www.alliancetubularproducts.net/resources/blog/applications-and-advantages-of-astm-a-500-structural-tubing/
+The yield stress for ASTM A500 Grade B steel was found to be greater than or equal to 315 MPa
+(The decision to use grade B will be further discussed under the "Decide" header)
 
+
+Using the equation for axial stress ( σ = F / A ) and solving for A, ( A = F / σ) then applying the saftey factor, the equation to find the cross sectional area were derived upon:
+
+( A = 3.5F / σ ).
+
+<img width="918" height="369" alt="SymbolicStressT" src="https://github.com/user-attachments/assets/c4357b32-c74e-4204-b1e0-db7dc7f89bc7" />
+
+### Truss Stress Calculation
+Applying the tried, true, red-white-and-blue, back-bending, world-ending, foul smelling and, patent-pending method of " plug-and-chug™ "
+the known vales for yield stress(σ), maximum force(F) (Tension at BD/AC), and the prescribed factor of safety of 3.5; the cross sectional area was found to be 0.00046296 square meters.
+
+<img width="770" height="327" alt="StressCalculationT" src="https://github.com/user-attachments/assets/c8b0e359-a8d4-4280-8588-28951c95b638" />
+
+For purposes that will become all too clear in the very near future, the units were converted into square inches (0.718 in sq.)
+
+### Pin Force Analysis
+In order to find the applicable cross-section area for the pins that will hold our truss together at points A,B,C and, D, a free body diagram was revisited upon point B (with great vengance and furious anger)
+
+<img width="875" height="633" alt="FBDP" src="https://github.com/user-attachments/assets/4d78f8f0-3698-4f16-baff-c970d1edd613" />
+
+Initially the value of V (shear force on the Pin) was thought to be equivalent to the tension force of the truss element.
+This thought was burned as a heretic and it family name was stricken from the record.
+
+
+
+https://en.wikipedia.org/wiki/ASTM_A500
 
 
 
