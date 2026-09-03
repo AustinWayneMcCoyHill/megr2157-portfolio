@@ -206,5 +206,9 @@ https://www.researchpublish.com/upload/book/FATIGUE%20ANALYSIS%20OF%20TRUSS-2169
 The article from 2015 by J B Geetha Shree at the East Point College of Engineering and Technology, Bangalore India (Titled Fatigue Analysis of Truss) indicates that "joint failure in steel structure is generally due to bolt failure". 
 The paper describes how cyclic loading and un-loading cause small cracks which propagate stress concentrations through the material.
 This will eventually lead to shearing fracture and the failure of the truss at the joint.
+
 One design change to mitigate this failure mode would be to develop an assembly to put the pins in a 2 plane shear configuration. This would cut the net shear stress in half.
+
+## Conclusion
+By doing this particular project I learned that there may be several competing unit types (imperial /meteric /martian) depending on material supplier and job/supplier requirements so no matter how much pre-planning you do, you will still end up needing to convert units back and forth ( 4 times minimum).
 
