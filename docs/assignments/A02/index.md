@@ -210,5 +210,5 @@ This will eventually lead to shearing fracture and the failure of the truss at t
 One design change to mitigate this failure mode would be to develop an assembly to put the pins in a 2 plane shear configuration. This would cut the net shear stress in half.
 
 ## Conclusion
-By doing this particular project I learned that there may be several competing unit types (imperial /meteric /martian) depending on material supplier and job/supplier requirements so no matter how much pre-planning you do, you will still end up needing to convert units back and forth ( 4 times minimum).
+By doing this particular project I learned that there may be several competing unit types (Imperial / Metric / Martian) depending on material supplier and job/supplier requirements so no matter how much pre-planning you do, you will still end up needing to convert units back and forth ( 4 times minimum). This project consumed roughly eight (Metric) hours of time.
 
