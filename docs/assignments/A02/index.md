@@ -57,7 +57,10 @@ The truss members BD and AC were in tension of magnitude 41.67 kN and the truss 
 
 ### Truss Stress Analysis
 
-The next step in the design was to calculate the cross sectional area required 
+The next step in the design was to calculate the cross sectional area required.
+In order to achieve this step, outside information were required.
+
+https://www.alliancetubularproducts.net/resources/blog/applications-and-advantages-of-astm-a-500-structural-tubing/
 
 
 
