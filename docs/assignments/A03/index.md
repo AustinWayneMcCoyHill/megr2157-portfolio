@@ -58,7 +58,7 @@ Before jumping into the software, some hand calculations were completed using th
 
   Then we opened Solidworks™
 
- ### Setting parameters and material
+### Setting parameters and material
 
   Material was configured,
   
@@ -79,7 +79,7 @@ Before jumping into the software, some hand calculations were completed using th
 ### Model Link
 [A3 bar (sldprt)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A03/A3.SLDPRT)
 
- ### The finest of element analysis
+### The finest of element analysis
 
   Solidworks makes the FEA segment somewhat trivial.
   
@@ -95,7 +95,7 @@ Before jumping into the software, some hand calculations were completed using th
 
   <img width="562" height="466" alt="use teh forse" src="https://github.com/user-attachments/assets/d94ff719-630e-4803-ad08-d016805c5810" />
 
-  ## FEA results
+## FEA results
 
 ### vonMises 
 
