@@ -107,22 +107,67 @@ Before jumping into the software, some hand calculations were completed using th
 ### strain
 
 <img width="1689" height="873" alt="A3-Static 2-Strain-Strain1" src="https://github.com/user-attachments/assets/908b2040-73f2-4d66-acc3-5eb9a0f9c531" />
+### Safety factor
+The maximum stress from the von Mises stress map is 2.942 ksi.
+
+This represents a safety factor of just about 13.5 (Yield strength / max stress)
+
+#### "But what if we put a hole in it?"
+
+First of all .... don't.... but if you have to it's probably fine.
+
+According to what I could find on Kt factor for a transverse hole in a bar under uniaxial tension
+
+(https://mechcodex.com/learn/strength-of-materials/stress-concentration)
+
+The stress at the edge of the hole perpendicular to the line of force is 3 times the stress at the edge of the hole along the line of force.
+
+<img width="842" height="292" alt="mechcodex" src="https://github.com/user-attachments/assets/8b3b818a-88c0-47c6-99d0-1513b23a5b84" />
+
+
+If we consider the hole to be situated where the stress is highest on the bar (2.942 ksi) and triple that the maximum stress becomes 8.826 ksi.
+
+This would drop the safety factor from 13.5 to 4.5 but would still be acceptable.
+
+## Modifying Design Parameters - Predictions
+
+### Changing Area or Load
+Changing any of the geometric parameters will have an effect on the length per the earlier equation:
+
+L = (e * A * E) / F
+
+This equation is linear so adjusting cross-sectional area (A) will be directly proportional, and adjusting load (F) will be inversely proportional. 
+
+
+### Modifying diameter
+Given that the cross-section is circular and solid, the only geometric property to adjust for area will be the diameter. Because the formula for Area of the cross section involves squaring the diameter, adjustments to the diameter will have a quadratic effect on the length (double the diameter and the length goes up by a factor of four).
+
+### Modifications Results
+Doubling Diameter:
+
+Prediction: Length will quadruple from 35.37in to 141.47
+
+Result: The parametric formulae and FEA simulation both show the prediction to be true
+
+<img width="219" height="181" alt="diaModEqRes" src="https://github.com/user-attachments/assets/bb11326f-c17a-4c15-8326-8ae20675e04d" />
+
+<img width="1407" height="638" alt="modDiaDisp" src="https://github.com/user-attachments/assets/9dbe2269-b555-4e1d-8852-d9f6b79920c6" />
+
+Dropping load from 500 to 300 lbf (diameter returned to original 0.5in):
+
+Prediction:  Length will increase by factor of (F original  / F new) = (5/3) because the length is inversly proportional to load (force go down, length go up)
+
+Result: The parametric formulae and FEA simulation both show the prediction to be true
+
+<img width="1199" height="522" alt="modFEq" src="https://github.com/user-attachments/assets/51be683a-0b01-4b40-8146-ba992f276b8c" />
+
+<img width="1343" height="646" alt="modFDisp" src="https://github.com/user-attachments/assets/e0ea2777-8c6e-4f4a-a012-d2ac83662f13" />
 
 
 
 
+## Conlusions
 
-  
-
-
-
-
-  
-
-
-
-## Decide
-
-
-## Communicate
+While the formulae are fairly straight forward in this instance, it is always surprising just how resilient metals are in tension. even a small cross section of aluminum only deflects by 0.0254% Length at 500 lbf.
+Time spent: 4 hours
 
