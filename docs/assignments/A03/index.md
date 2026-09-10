@@ -20,7 +20,7 @@ Given the following constraints:
 Before jumping into the software, some hand calculations were completed using the following formula from p218 of Machinery's Handbook
 
 
-  ### Hand Calculations
+### Hand Calculations
 
   (17) e = FL/AE (from handbook)
   where
@@ -41,7 +41,7 @@ Before jumping into the software, some hand calculations were completed using th
 
   NOTE: to make parametric design simpler (pi/4)*d^2 is substituted for A
 
-  ### Numerical Calculation
+### Numerical Calculation
   
   Choosing 6061 - T6 Aluminum (Common, relatively cheap, strong enough), give a Modulus of elasticity of 10.007604E6 which is well with constraints.
   
@@ -53,12 +53,12 @@ Before jumping into the software, some hand calculations were completed using th
 
   <img width="861" height="258" alt="L numcalc" src="https://github.com/user-attachments/assets/7ca676bb-c830-4cd4-8685-e874fac4c84b" />
 
-  ## Model
+## Model
   With some calculations done and formulae in hand, confidences were nearing an all time high...
 
   Then we opened Solidworks™
 
-  ### Setting parameters and material
+ ### Setting parameters and material
 
   Material was configured,
   
@@ -79,7 +79,7 @@ Before jumping into the software, some hand calculations were completed using th
 ### Model Link
 [A3 bar (sldprt)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A03/A3.SLDPRT)
 
-  ### The finest of element analysis
+ ### The finest of element analysis
 
   Solidworks makes the FEA segment somewhat trivial.
   
