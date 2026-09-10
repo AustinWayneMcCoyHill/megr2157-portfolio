@@ -76,7 +76,8 @@ Before jumping into the software, some hand calculations were completed using th
 
   <img width="594" height="478" alt="diameter" src="https://github.com/user-attachments/assets/04dd8e8a-5013-43b6-becd-b0cfc7d2e49e" />
 
-
+### Model Link
+[A3 bar (sldprt)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A03/A3.SLDPRT)
 
   ### The finest of element analysis
 
