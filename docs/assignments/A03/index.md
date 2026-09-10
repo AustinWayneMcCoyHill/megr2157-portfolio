@@ -108,6 +108,7 @@ Before jumping into the software, some hand calculations were completed using th
 ### strain
 
 <img width="1689" height="873" alt="A3-Static 2-Strain-Strain1" src="https://github.com/user-attachments/assets/908b2040-73f2-4d66-acc3-5eb9a0f9c531" />
+
 ### Safety factor
 The maximum stress from the von Mises stress map is 2.942 ksi.
 
