@@ -31,6 +31,8 @@ It features a bolt circle for flange mounting consisting of 4 M3 bolt holes on a
 
 <img width="1343" height="953" alt="Motor Drawing" src="https://github.com/user-attachments/assets/718d1047-753b-40e6-bcf3-7b5e6943b4dc" />
 
+## Design Feature 1 (Flange Attachment)
+
 ### Feature one FBD and SMD
 The next step in the design process was to draw up a free body and shear-moment diagram for the section of the mount that motor will attach to at the flange. The maximum moment imparted by the load was found to be 5.43Nm
 
@@ -39,19 +41,83 @@ The next step in the design process was to draw up a free body and shear-moment 
 The next step is to calculate the polar moment of inertia needed to keep deflection within its allowable parameters.
 This led to the first (but not last) design reflection. 
 
-#### Design Reflection 1 (Determining Length and motor body clearance)
+#### Design Consideratoin 1 (Determining Length and motor body clearance)
 The motor mount can deflect as much as 0.3mm in operation, therefor there must be sufficient clearance between the body of the motor and the wall attachment of the mount to avoid interference. 
 Using some basic trigonometry the Length from the wall mount surface to the shaft was 15.605mm. This allows 2mm of clearance in addition to the maximum deflection at the ODE (opposite drive end) of the motor/gearbox housing at its maximum length of 75.6mm.
-It was also decided to give 5mm of material to each side of the motor body (on all sides facing free space).
-This set the the width of the mount a 38mm. 
-For future calculations the served as the base dimension for the beam cross-section area for both features.
+
+
 
 Using this as the beam length, Feature one was calculated as a cantilever beam, fixed at the surface of the wall mount opposite wall A.
 
+#### F1 Beam Calculations (Symbolic)
 <img width="912" height="909" alt="F1 Beam Calculations" src="https://github.com/user-attachments/assets/721859a3-3449-4323-8d9c-7cd9e65dca85" />
+
 
 ### F1 Calculated Cross section
 Using the beam tables found in and around page 254 of Machinery's Handbook, The deflection of a beam with a singular moment load.
+It should be noted that the original Length of 15.605 was calculated for the deflection allowed but, for safety, it was increased to account for the full specified deflection (redundant safety factors)
+The L used for calculations was 16.1mm.
+With M, E, and v allowed known, the calculation for I (polar moment of inertia) was made (refer to F1 Beam Calculations for symbolic solutions)
+
+#### F1 Beam Calculations (Numeric)
+
+<img width="741" height="947" alt="F1 Beam Calculations N" src="https://github.com/user-attachments/assets/f8640ff3-0fbc-46b0-81e2-5826d873815d" />
+
+#### Design Consideration 2 (whas my b be... b?)
+It was decided to give 5mm of material to each side of the motor body (on all sides facing free space).
+This set the the width of the mount a 38mm.
+For future calculations the served as the base dimension for the beam cross-section area for both features.
+
+With I calculated and b known, the critical thickness of the beam was calculated for stiffness.
+It was found to be close to 11.25mm.
+
+### Now for the Strengths
+
+Calculations for the critical thickness of the Feature 1 with regards to strength were then made
+
+#### F1 Beam Calculations (for strength)
+
+<img width="702" height="897" alt="F1 Beam Calc Stremf" src="https://github.com/user-attachments/assets/56f03f33-c571-4286-af1e-3db00f9f6c34" />
+
+The critical thickness of the beam with regards to strength was calculated to be around 9.32mm
+
+The larger of the two was chosen for more safety in the design.
+
+## Design Feature 2 (Wall attachment)
+
+The process for Feature two was performed in a similar sequence to design feature 1.
+
+The first step was sketching diagrams (FBD and SMD).
+This led to the next design consideration.
+
+#### Design consideration 3 (How long am it really necessary to be?)
+Simply for the thrill of it, the length of the wall attachment feature was set at 75.6mm ( the entire length of the motor body).
+
+#### Feature 2 Diagrams
+
+<img width="609" height="807" alt="F2 Diagrams" src="https://github.com/user-attachments/assets/38f03cb5-4cd5-48ba-9b55-8d5699942f50" />
+
+### Feature 2 Calculations
+
+Using the same procedure as F1 the moment of inertia (I) was calculated.
+(see Feature 2 Diagrams for Symbolic calculations)
+
+#### Feature 2 Numerical Calculations
+
+<img width="647" height="493" alt="F2 Numerical Calculations" src="https://github.com/user-attachments/assets/8353ffb2-3a3d-46c6-99c4-a29e1fcad147" />
+
+The critical thickness for Feature 2 was found to be over 50mm.
+This seemed excessive so the design consideration for length was revisited.
+Because Feature 2 is bolted to the wall, the beam length was revised to the length from the last bolt position to the end surface of Feature 1.
+For optimal load distribution, the spacing of a 4 bolt square pattern was spaced to cut the span length of the Feature 2 length into even thirds.
+This left the "beam length" of feature 2 at about 25mm.
+
+#### Feature 2 Revisited
+
+<img width="616" height="551" alt="The Revisiting" src="https://github.com/user-attachments/assets/2d6e2c63-5337-4162-ba12-851f00130b39" />
+
+
+
 
 
 
