@@ -131,7 +131,12 @@ Just for laughs I suppose.
 <img width="838" height="841" alt="iso handy" src="https://github.com/user-attachments/assets/3e898c98-280c-4b7c-a26f-aa76c81a5bc2" />
 
 ### If it's solid, it works
-[A4 Motor Mount Solid Model](https://github.com/
+
+[A4 Motor Mount Solid Model](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A04/A4.SLDPRT)
+
+[A4 Motor Mount Drawing PDF](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A04/A4_Austin_Hill.pdf)
+
+
 
 
 
