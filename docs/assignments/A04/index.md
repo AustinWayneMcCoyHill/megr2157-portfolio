@@ -116,19 +116,25 @@ This left the "beam length" of feature 2 at about 25mm.
 
 <img width="616" height="551" alt="The Revisiting" src="https://github.com/user-attachments/assets/2d6e2c63-5337-4162-ba12-851f00130b39" />
 
+With the new parameter for L established, the critical thickness of Feature 2 was re-calculated at 11mm with respect to strength and 17mm with respect to stiffness.
+Using the same logic as Feature 1, the larger of the two was carried through to the design.
+
+## Communicate (Let's get digital)
+
+Before digging into the Solidworks, an Isometric sketch was done by hand.
+Just for laughs I suppose.
+
+#### Isometric hand sketch
+
+[A4 iso hand sketch.pdf](https://github.com/user-attachments/files/32318540/A4.iso.hand.sketch.pdf)
+
+<img width="838" height="841" alt="iso handy" src="https://github.com/user-attachments/assets/3e898c98-280c-4b7c-a26f-aa76c81a5bc2" />
+
+### If it's solid, it works
+[A4 Motor Mount Solid Model](https://github.com/
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-## Communicate
 
