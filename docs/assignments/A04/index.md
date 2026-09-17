@@ -136,6 +136,23 @@ Just for laughs I suppose.
 
 [A4 Motor Mount Drawing PDF](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A04/A4_Austin_Hill.pdf)
 
+<img width="1188" height="915" alt="drooooring" src="https://github.com/user-attachments/assets/6539ee8f-668c-4842-9b4e-df14dd4a4b26" />
+
+
+In order to get keep a good eye on the proportions of the motor mount, A STEP model of the motor, available from the motor supplier, was used to model the mount off of.
+
+[PA28-28245800-G100 Motor Model](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A04/PA28-28245800-G100.STEP)
+
+##Conclusions
+
+The most salient engineering principle gleaned from this assignment is that in both cases, the need for stiffness is more driving than the need for tensile strength.
+The second is that the design process is fraught with potential pitfalls when attempting to simplify calculations. The most challenging part of the assignment was to derive a model to translate the assigned figure into the most relevant, known beam model. The only change I would make to the design would be in the bolt hole pattern for the wall mounting feature. If the pattern were change such that the effective beam length for feature 1 and feature 2 are equal, then the thicknesses of the two sections would be the same.
+
+This project took about 5.5 hours.
+
+I give it 3.3125 out of 5 stars.
+
+
 
 
 
