@@ -64,7 +64,18 @@ The process for calculating the minimum cross section for Feature B was similar 
 
 The length of feature B is left to our own designing. Just for a grand fancy, it was set at the material limit for the maximum material deformation.
 
-Feature C
+### Feature C
+
+Feature C was calculated as a supported beam with a point load equal to the reaction force in feature B.
+The governing component was the stiffness, requiring a minimum thickness of 0.6446 in. to maintain deflection less than maximum vs 0.5428 in. for stress.
+The depth of Feature C, along with the remaining features was designed as the sum of the free length of feature A and the thickness of feature B (0.9106 in.)
+
+<img width="599" height="789" alt="Feature C1" src="https://github.com/user-attachments/assets/c47b938d-afc6-4837-874b-da26c2bdf164" />
+
+<img width="362" height="379" alt="Feature C2" src="https://github.com/user-attachments/assets/5a96c53e-2b89-448d-9cdf-a5a01e460105" />
+
+### Feature D
+
 
 
 
