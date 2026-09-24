@@ -1,9 +1,77 @@
-# A5 – [Topic]
+# A5 – [Bracket Design]
 
 ## Objective
+The objective for A5 is to design a bracket used to support a load from a nylon web towing style strap.
+The bracket needs to attach to a perscribed "t-bar" (Fig 1)
+
+### Fig 1
+
+<img width="417" height="313" alt="Fig 1" src="https://github.com/user-attachments/assets/9adb0ba9-b925-4480-8185-a4c13f5ee029" />
+
+
+Three materials were given as viable options.
+The internet were consulted for mechanical properties of all three
+
+Material option 1 - 6061 T6 Aluminum
+
+https://www.modulusmetal.com/aluminum-6061-t6-mechanical-properties/
+
+Material option 2 - ASTM A36 Steel
+
+https://langhe-industry.com/astm-a36-carbon-steel/
+
+Material option 3 - ASTM Grade 5 Titanium
+
+https://www.aerospacemetals.com/wp-content/uploads/2023/07/Titanium-Ti-6Al-4V-Grade-5-STA-Data-Sheet.pdf
+
+The strap in question will support a load of 750lbs
+
+https://www.uline.com/Product/Detail/S-12925/Poly-Cord-Strapping/Heavy-Duty-Polyester-Cord-Strapping-3-4-x-2500?pricode=WA9239&gadtype=pla&id=S-12925
 
 
 ## Analyze
+
+### Feature A (business end)
+Feature A will be where the strap meets the designed bracket.
+A simple cylinder is assumed to suffice and we are resting comfortable in our assigned assurance that under direct shearing force, no part shall fail.
+Per suggestion the forces and reactions were calculated as though the cylinder were a cantilever beam with the load distributed along the length of the strap.
+For the first feature, calculations were conducted to find the minimum diameter for the cylinder in all three materials. 
+The calculations were used to find the minimum diameter to keep the stress on the part inside the elastic limit (with a safety factor of 4) and, the minimum diameter to keep the deflection in the part less than the prescribed 0.005" limit for maximum deflection.
+The free length of feature A was made just a little longer (0.050 in) than the width of the strap to accommodate for some shifting during use.
+
+<img width="609" height="793" alt="Feature A" src="https://github.com/user-attachments/assets/d9434389-aba9-480d-8b3d-cab28432accc" />
+
+#### Material Selection sidebar
+
+At this point it was time to select a material.
+Given the calculated diameters, it seemed like the Titanium was the strongest choice and could be made using the least quantity of materials.
+This seemed like a good idea until the prices were inspected.
+Per metal prices today, the titanium, even accounting for using less material, would still be ten times the cost of making the bracket from aluminum.
+
+https://www.materialpricebook.com/prices
+
+<img width="591" height="506" alt="cost comparison" src="https://github.com/user-attachments/assets/886a724e-7dfc-43b7-b30d-c0d5843e4750" />
+
+For this reason, and maybe a few personal ones, Aluminum was chosen as the material for the bracket.
+This concludes the sidebar.
+
+### Feature B
+
+Moving right along, Feature B was determined to be best approximated as a rectangular bar under axial load.
+The process for calculating the minimum cross section for Feature B was similar to feature A with changes made to Section Modulus and Moment of Inertia because of the change in geometry.
+
+<img width="603" height="742" alt="image" src="https://github.com/user-attachments/assets/69de1667-e470-4bda-bb99-3d4aba70325a" />
+
+The length of feature B is left to our own designing. Just for a grand fancy, it was set at the material limit for the maximum material deformation.
+
+Feature C
+
+
+
+
+
+
+
 
 
 ## Decide
