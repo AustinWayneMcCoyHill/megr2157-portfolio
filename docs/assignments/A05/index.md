@@ -41,7 +41,8 @@ The free length of feature A was made just a little longer (0.050 in) than the w
 
 <img width="609" height="793" alt="Feature A" src="https://github.com/user-attachments/assets/d9434389-aba9-480d-8b3d-cab28432accc" />
 
-#### Material Selection sidebar
+## Decide
+### Material Selection sidebar
 
 At this point it was time to select a material.
 Given the calculated diameters, it seemed like the Titanium was the strongest choice and could be made using the least quantity of materials.
@@ -54,6 +55,8 @@ https://www.materialpricebook.com/prices
 
 For this reason, and maybe a few personal ones, Aluminum was chosen as the material for the bracket.
 This concludes the sidebar.
+
+## Analyze 2 (everyones favourite sequel)
 
 ### Feature B
 
@@ -76,16 +79,23 @@ The depth of Feature C, along with the remaining features was designed as the su
 
 ### Feature D
 
+Feature D was calculated as a rectangular bar under axial load with magnitude equal to reaction force from feature C, this force was half of the original load as there are two of the D's.
+
+
+<img width="593" height="791" alt="Feature D" src="https://github.com/user-attachments/assets/e29a9bf4-6877-432c-bd0d-e3e3c867e0ae" />
+
+### Feature E
+
+Feature E was approximatiftied as a supported beam with an overhang, the load for feature E was calculated as the reaction force from feature D.
+The formula for the beam calculation was not ripped straight from the searing pages of Machinery's Handbook (gasp), rather searched for and found upon said internet.
+
+https://www.structx.com/Beam_Formulas_025.html
+
+<img width="600" height="791" alt="Feature E1" src="https://github.com/user-attachments/assets/40919b1c-4d05-443a-b5c7-b244ab96e38d" />
+<img width="603" height="788" alt="Feature E2" src="https://github.com/user-attachments/assets/df36947b-f419-411a-84de-d72a1ad44006" />
 
 
 
-
-
-
-
-
-
-## Decide
 
 
 ## Communicate
