@@ -94,9 +94,34 @@ https://www.structx.com/Beam_Formulas_025.html
 <img width="600" height="791" alt="Feature E1" src="https://github.com/user-attachments/assets/40919b1c-4d05-443a-b5c7-b244ab96e38d" />
 <img width="603" height="788" alt="Feature E2" src="https://github.com/user-attachments/assets/df36947b-f419-411a-84de-d72a1ad44006" />
 
+### LinkityLink
 
+A Link were designed per specification to slip fit onto the shaft at Feature A.
+This link is to be assembled by "light pressure" onto a 1" shaft.
 
+Hole for slip fit onto shaft A determined by consult to machinery's handbook page 654, RC Table, Class RC4 column.
+Shaft minimum diameter is 0.662 in. so shaft max diameter is 0.6627 in.
+To match fit classification, hole diameter will be  0.6633 (+0.0010 / -0.0000).
 
+The Hole for the 1 inch nominal shaft was determined by consult to machinery's handbook page 659, FN Table, FN1 Column.
+Shaft diameter is 1.0010 in. (+/- 0.0002 in.), hole diameter is 1.0000 (+0.0005 / -0.0000) in.
+
+Using a thickness of 0.050" to correspond the the excess length designed into shaft A, The Width was calculated for Stress and Stifness, with the stiffness being the governing factor.
+Overall Width at Length 2.5 and thickness 0.050" will be 2.875 inches.
+
+Manufacturing of the outer profile can be achieved by laser or waterjet so long as length and thickness are called out as minimum material condition.
+The holes themselves will need to be achieved through reaming to achieve desired precision.
 
 ## Communicate
+
+### Sketch Compiled
+
+Overall sketches were compiled after dimensions calculated.
+
+<img width="631" height="805" alt="Sketch1" src="https://github.com/user-attachments/assets/3697a2ba-e7c3-46ac-af07-131f1a5f6e5b" />
+
+<img width="618" height="786" alt="Sketch 2" src="https://github.com/user-attachments/assets/00e9d9cc-604c-4963-93da-0f3eddd878c6" />
+
+
+
 
