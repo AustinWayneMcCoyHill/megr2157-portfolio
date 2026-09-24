@@ -70,6 +70,7 @@ The length of feature B is left to our own designing. Just for a grand fancy, it
 ### Feature C
 
 Feature C was calculated as a supported beam with a point load equal to the reaction force in feature B.
+#### Governing Factor
 The governing component was the stiffness, requiring a minimum thickness of 0.6446 in. to maintain deflection less than maximum vs 0.5428 in. for stress.
 The depth of Feature C, along with the remaining features was designed as the sum of the free length of feature A and the thickness of feature B (0.9106 in.)
 
@@ -112,6 +113,12 @@ Overall Width at Length 2.5 and thickness 0.050" will be 2.875 inches.
 Manufacturing of the outer profile can be achieved by laser or waterjet so long as length and thickness are called out as minimum material condition.
 The holes themselves will need to be achieved through reaming to achieve desired precision.
 
+<img width="612" height="803" alt="Link 1" src="https://github.com/user-attachments/assets/aed0e684-b7c0-4aef-bb9d-5f4d1e67732d" />
+
+<img width="617" height="361" alt="Link 2" src="https://github.com/user-attachments/assets/db52b678-1b75-4377-9afd-d0575774cd7d" />
+
+
+
 ## Communicate
 
 ### Sketch Compiled
@@ -122,6 +129,15 @@ Overall sketches were compiled after dimensions calculated.
 
 <img width="618" height="786" alt="Sketch 2" src="https://github.com/user-attachments/assets/00e9d9cc-604c-4963-93da-0f3eddd878c6" />
 
+### Lessons Learned
 
+#### Error Propagation
+There were two main points of error propagation, the first occurred at Feature C where I realized I used the wrong beam calculation. I started with the beam calculation formula for a distributed load instead of a point load. Fortunately I had not gotten too far into Feature D before realizing the error of my wayward ways. The second revolved around just where to begin and end the features, I originally sketched feature C as spanning the entire length of the part, but doing this I would be relying on the thickness of feature D which is at that point unknown.
 
+#### Assumption Sensitivity
+There are a lot of assumptions in this project. One that I struggled with were the assumptions around the slip fits of the T-Bar vs their noted tolerances. 
+These were in direct contradiction and lead to some foolishness of tolerancing in the bracket side.  
+We'd better hope that, regardless of material, we're assuming this bracket is only used inside, in climate controlled environments. 
+If not, the bracket should be supplied with a mallet. Even a little bit of upward temperature change will turn that RC1 fit into an FN2.
 
+5 stars.
