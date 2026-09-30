@@ -72,8 +72,41 @@ The 3d part of the modeling became nearly trivial, simply extruding the correct 
 This meant that, despite all of our better efforts, we have let our selves become what our family and friends all feared...
 Severely inexperienced CAD designers.
 
-[A4 Motor Mount Solid Model](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6 Bracket.SLDPRT)
+[A6 Bracket](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6Bracket.SLDPRT)
 
+[A6 Link](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6Link.SLDPRT)
+
+### 5) Putting in all down on paper ... digitally
+The last step in our tumultuous sojourn into modern design and everyday life left us transforming our magnificent three-dimensional models into stoic two-dimensional prints.
+I was surprised to find that nowadays the prints are no longer blue.
+By opening the file menus and selecting "make drawing from part" we were heaved, headlong and somewhat concerned, into the dark forest of sub-menus and flop sweat that is printmaking.
+The video for making a projection angle symbol were followed and the title blocks were modified to the specefications of the assignment.
+A quick check into the document and drawing properties verified that we were in fact using the correct system of units and third angle projection.
+The "standard 3 view" button was used to ensure that the correct projection angle were followed through upon.
+
+#### Dimensioning
+For the Bracket, every dimension that was a contact surface to the "T-Bar" was given in max\min "limit" format with a notation marker indicating what face/dimension it was in reference to.
+All of the Feature (A-E) Dimensions were given bi-lateral tolerances of -0.000 / +0.010.
+The designer designated dimension were left as title-block reference dimensions to two decimal places.
+The dimensions that could be derived by adding already noted dimensions together but, would be more convenient for manufacturers to be given, were shown as reference dimensions (in parenthesis).
+The only exception to this was the diameter for feature A which, because of the link, needed a clearance fit callout for an RC 4 slip fit.
+This tightened it's bi-lateral tolerance from +0.01 / - 0.00 to +0.0007 / -0.0000, keeping it's minimum value protected.
+Notation markers were also added to features of symmetry on the part where it was deemed appropriate.
+Finally a "Notes" block was added for the utmost in clarity and care.
+Because of it's relative simplicity, the link drawing did need an entire "Notes" section and only got the one not it needed arrowed directly to its feature.
+This was the RC4 clearance hole corresponding to the RC4 pin fit from the bracket drawing.
+The actual dimensions were still given as limit tolerances for the pin/hole fits and a note for the "csx" dimension to be followed throughout the entire part as the minimum width at any section.
+For manufacturer convenience, the center to center distance of the two holes was also added.
+
+#### Print Links
+
+[A6 Bracket Drawing (SW)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6BRACKET.SLDDRW)
+
+[A6 Bracket Drawing (PDF)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6BRACKET.pdf)
+
+[A6 Link Drawing (SW)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6Link.SLDDRW)
+
+[A6 Link Drawing (PDF)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6Link.pdf)
 
 
 
