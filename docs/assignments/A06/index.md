@@ -19,12 +19,24 @@ The only change to materials was the use of the Solidworks Library values for th
 Once a SW session was opened. The material was selected from the SW material library.
 The modulus of elasticity and yield strength was noted for the equations.
 After the materials were applied, the equations were entered using the equation manager.
+
 #### A6 Bracket Equations
 The first entries for the equations were the constant values (the ones not dependent on anything else).
 This included the material properties, the clearance dimensions calculated per the T-Bar diagram, and the few dimensions that were left to the designer.
-The dimensions left to the designer 
+The dimensions left to the designer include the length of cylinder feature A and rectangular feature B.
+After the independent dimensions and properties were entered, the equations were entered for the minimum diameters of the various part features.
+For all features except the cylindrical feature A, the minimum dimension calculated for stiffness was greater than the minimum dimension for strength.
+In all cases the greater of the two dimensions was chosen. 
+In some cases multiple equation parameters were combined for a new dimension, for example the overall length of the part "OAL" used the input length of Feature A and the equation driven thickness of Feature B in it's calculation.
 
 <img width="1199" height="774" alt="Bracket Equations" src="https://github.com/user-attachments/assets/204a8304-34db-4191-8cd9-f620d362d550" />
+
+#### A6 Link Equations
+The process for entering equations for the link model was the same as the bracket but simper because there was only one part to model.
+The material properties were entered first.
+The thickness of the part was set as 0.050" in order to guarantee that the part hangs completed on the cylindrical Feature A.
+The most critical dimension calculated was the minimum cross section width, denoted "csx" (cross section in x).
+this will be used to govern the length as well as the width of the link by guaranteeing there is no section of the part that is less than "csx" wide.
 
 <img width="1202" height="782" alt="Link Equations" src="https://github.com/user-attachments/assets/b25e78dd-5dbd-4f0f-a326-7be1a99b869b" />
 
@@ -38,7 +50,30 @@ The sketch was started by drawing a centerline from the origin, up to the top of
 The origin was chosen as the center of the cylinder feature (Feature A from project A5).
 A circle was placed at the origin and it's diameter was set as the global variable for the calculated feature value "dA"
 the "dynamic mirror" feature was used to construct the remaining profile in a rough fashion.
-The dimensions were added from the equation sheet.
+The dimensions were added from the equation sheet and a good time was had by all.
+
+<img width="757" height="767" alt="Bracket Sketch" src="https://github.com/user-attachments/assets/5a3ce066-6033-47ff-8203-e6ab51f9b0d1" />
+
+
+#### A6 Link Sketch
+For the link sketch the center point slot tool was used for the main body. 
+The origin point was the midpoint of the centerline of the slot.
+The Holes were placed on the centerline of the slot and dimensioned according to their perscribed fit clearances.
+The dimensioning for the length and width of the slot was fully driven by "csx" by setting it as the distance between the terminal radii of the slot and the hole circles.
+This gave us a fully defined sketch and a renewed sense of purpose and well being.
+
+<img width="796" height="693" alt="Link Sketch" src="https://github.com/user-attachments/assets/79d8dae6-a9bb-46c7-869e-239c19c5d051" />
+
+### 4) 3D'ing the model
+Our sketceh are in place and we have little left to do but get on with things so, I suppose we shall.
+
+The 3d part of the modeling became nearly trivial, simply extruding the correct features in the correct directions according to the correct calculated or designed dimension.
+
+This meant that, despite all of our better efforts, we have let our selves become what our family and friends all feared...
+Severely inexperienced CAD designers.
+
+
+
 
 
 
