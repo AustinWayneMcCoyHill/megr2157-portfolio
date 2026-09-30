@@ -72,6 +72,9 @@ The 3d part of the modeling became nearly trivial, simply extruding the correct 
 This meant that, despite all of our better efforts, we have let our selves become what our family and friends all feared...
 Severely inexperienced CAD designers.
 
+[A4 Motor Mount Solid Model](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6 Bracket.SLDPRT)
+
+
 
 
 
