@@ -109,19 +109,16 @@ For manufacturer convenience, the center to center distance of the two holes was
 [A6 Link Drawing (PDF)](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A06/A6Link.pdf)
 
 
+## Lessons Learned
 
+The primary lesson that I learned is that no matter how many times you double check, there is always one thing that you can find on a print that could be tweaked "just a little bit" to make it look neater/better/more complete.
+In my experience, the modelling component is far easier and faster than the print making specifically because the print is a form of communication. In many ways it's the worst form of communication because it only really goes one way and one time in many cases. If you were to send a flawed but technically viable print to a manufacturer they MAY call you and ask for clarification, but they could just as easily make the parts to the print and ship them (and the invoice) to you without saying anything at all.
+What I found with print making, both in this assignment and others, is that it's best to start with the most critical information. Get that on the page, make sure it is clearly communicated, then build the rest of the print around it. Specific to this project, the clearance features on the T-Bar seem excessively tight in too many directions but, I didn't design that part so I can only ensure that it is clear to whoever gets the parts that those dimensions are to be held, for whatever reason. From a quality standpoint, the fit and finish of consumer product significant to sales. Parts that feel and look better will usually sell better and be able to demand higher prices. In industrial and automotive parts, poor fitting means production stops or massive assemblies have to be delayed because a part technically was made "to-print" but the print allowed the physically impossible to be made real.
 
+My name is Ausitn Hill and I spet about 7 hours on this project.
+1 making models.
+3 making prints.
+3 compiling this nonsensical website arrangement.
 
-
-
-
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
+614 out of 743.2 stars.
 
