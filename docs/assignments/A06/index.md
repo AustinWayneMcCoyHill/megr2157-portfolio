@@ -116,8 +116,11 @@ In my experience, the modelling component is far easier and faster than the prin
 What I found with print making, both in this assignment and others, is that it's best to start with the most critical information. Get that on the page, make sure it is clearly communicated, then build the rest of the print around it. Specific to this project, the clearance features on the T-Bar seem excessively tight in too many directions but, I didn't design that part so I can only ensure that it is clear to whoever gets the parts that those dimensions are to be held, for whatever reason. From a quality standpoint, the fit and finish of consumer product significant to sales. Parts that feel and look better will usually sell better and be able to demand higher prices. In industrial and automotive parts, poor fitting means production stops or massive assemblies have to be delayed because a part technically was made "to-print" but the print allowed the physically impossible to be made real.
 
 My name is Ausitn Hill and I spet about 7 hours on this project.
+
 1 making models.
+
 3 making prints.
+
 3 compiling this nonsensical website arrangement.
 
 614 out of 743.2 stars.
