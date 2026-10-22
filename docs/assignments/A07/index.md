@@ -10,9 +10,9 @@ The assignment is to take the bracket and link parts that we created for assignm
 
 [A7 Link](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A07/A7Link.SLDPRT)
 
-[A7 Tabulation spreadsheet](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A07/A7Tabulation.xlsx)
+[A7 Tabulation spreadsheet](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A07/A7Tabulations.xlsx)
 
-[A7 Tabulation pdf](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A07/A7Tabulation.pdf)
+[A7 Tabulation pdf](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A07/A7Tabulations.pdf)
 
 
 ## Analyze
