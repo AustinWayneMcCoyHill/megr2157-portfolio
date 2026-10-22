@@ -32,7 +32,7 @@ I also chose the cylindrical surface of component "A" as the face to take the lo
 
 The force I calculated for assignment 5 was 750 lbs and I saw no reason other than sheer spite to change it now.
 I decided to start at the most coarse setting of mesh counts and move to medium/default, then, if needed, ramp the slider all the way up to "foine".
-The first test was very near abysmal. I believe I neglected a force somewhere or another because there was over a quarter inch of deflection shown in the result of the FEA simulation. The Maximum stress was 184773psi, (well beyond the yeild strength of the 6061 T-6 Aluminum that the part was to be made from.
+The first test was very near abysmal. I believe I neglected a force somewhere or another because there was over a quarter inch of deflection shown in the result of the FEA simulation. The Maximum stress was 184773psi, (well beyond the yeild strength of the 6061 T-6 Aluminum that the part was to be made from. We must, however, verify bad news as well as the good.
 
 ###  Bracket Design 1
 
@@ -217,8 +217,7 @@ The deflection is still do damn high…. Like the rent… and my uncle steve.  T
 
 
 
-We must, however, verify bad news as well as the good.
-Moving the slider 
+
 
 
 
