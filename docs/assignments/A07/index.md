@@ -145,7 +145,7 @@ The X axis is originated on the front plane surface and the Y axis originates do
 
 <img width="460" height="498" alt="Link D1L2 Deflection" src="https://github.com/user-attachments/assets/a9700104-30a4-4cb6-866e-1c2153f56343" />
 
-#### Design 2
+### Link Design 2
 
 For the most part the FEA reflected previous calculations and the Factor of safety was upheld at or above 4. There is, however about 0.002" of deflection. In order to remediate The thickness will be increased from 0.050 to 2mm (0.078"). Also, because the "B" component was doubled the link can no longer slide into place. There is now a hole through "A" that can accomodate a pin with a diameter of 0.4542". This is still in the same fit classification and schedule of the previous hole so the diameter of of the bracket side of the link will be decreased to 0.45801. The 2nd outer loop wight was around 0.05 lbs
 
@@ -161,10 +161,10 @@ For the most part the FEA reflected previous calculations and the Factor of safe
 
 <img width="419" height="500" alt="Link D2L2 Deflection" src="https://github.com/user-attachments/assets/8cd12227-fc36-42bc-b783-2da297c51bca" />
 
-#### Desigh 2 Final
+### Link Desigh 3
 
 The deflection is still do damn high…. Like the rent… and my uncle steve.  Thickening to 2.5mm (0.098")
-
+However the FEA results are convergeing well within limits. The stress and deflection with %difference of 4% and the saftey factor only differing by 2%
 #### Design 3 Loop 1
 
 <img width="447" height="445" alt="Link D3L1 Deflection" src="https://github.com/user-attachments/assets/0e1bea70-734a-455e-994f-9f2a758ef255" />
@@ -181,49 +181,23 @@ The deflection is still do damn high…. Like the rent… and my uncle steve.  T
 
 <img width="1378" height="798" alt="A7 Link" src="https://github.com/user-attachments/assets/77ee6a73-4dc9-45a8-9d5f-64fc23a3ed4d" />
 
+With a weight less than 0.1 lbs, a safety factor of 8.9 and deflection just over 0.001" we call this phase of the design complete.
+
+## Lessons Learned
+
+This project thrust me kicking and screaming, against most better judgment and almost certainly better nightly entertainment options, into the world of Solidworks FEA simulation. There were two parts that gave me pause and/or made me question my understanding of the process. The first is the default scaling of the analyzed distortions.
+
+#### Default Distortion Scale
+
+<img width="360" height="431" alt="why" src="https://github.com/user-attachments/assets/137f4951-be23-4feb-b1ac-9869e41facdf" />
+
+<img width="351" height="192" alt="whaaaaaaieee" src="https://github.com/user-attachments/assets/9f9a64cd-e987-4fd3-a6c8-898fc0f14ad4" />
+
+
+The scale of what the software distorts the mesh to after simulation is not true-to-life, but instead scaled up 250 times.
+If you are of a visual mind and do not know this, panic almost certainly could (read did) ensue. This is more of a personal gripe however. The second is exactly how the safety factor in Solidworks is calculated. It seems to be more related to stress than to deflection but there may be settings somewhere that I did not find. I look forward to being able to apply the FEA analysis tools in future projects with some modicum of earned confidence. This project took about 5 hours.
+I give it 6.8459 out of shivty pickles.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Decide
-
-
-## Communicate
 
