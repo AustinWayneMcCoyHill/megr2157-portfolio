@@ -96,14 +96,29 @@ And a great many calculations made
 <img width="4932" height="1015" alt="A8Calculations" src="https://github.com/user-attachments/assets/ac4a9596-6aba-4430-a70c-4f8fd7ff9b9f" />
 
 
-
-
-
-
-
-
 ## Decide
+
+Because shafts were small and forces somewhat low I decided a single bearing would be sufficient for each shaft.
+Also, there was not room on a one inch shaft to have a 3/8" Long gear and two 1/4" long bearings and have any reasonable access to the output side of the shaft.
+
+I also chose PEEK as a material. It has substantial strength (for plastic) and does not require any maintenance or lubrication.
+
+I chose a trough/cover style of housing with 4-40 screws to hold the thing together.
+
+<img width="658" height="424" alt="Assembly Output Side" src="https://github.com/user-attachments/assets/73adada7-b792-4c37-ac2e-434cfb1daf3b" />
+
+<img width="618" height="488" alt="Assembly Input Side" src="https://github.com/user-attachments/assets/977f651d-a79b-4be8-b68f-b1fe8730ba34" />
+
 
 
 ## Communicate
+
+The most important thing I learned from this project is that there is still a lot of work to do even if you're getting the primary components from a website and assembling them.
+
+I give it 6-3/4 out of 11-78/22 tax season sign flippers.
+
+
+
+
+
 
