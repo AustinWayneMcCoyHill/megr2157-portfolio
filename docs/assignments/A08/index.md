@@ -75,7 +75,29 @@ The objective for this project were to learn and apply common mechanical theory 
 
 
 ## Analyze
-[A8FBD.pdf](https://github.com/user-attachments/files/34127719/A8FBD.pdf)
+To Analyze The Part, Free Body Diagrams was drawed
+
+### Free Body Diagrams
+
+#### Shaft FBD
+
+<img width="667" height="793" alt="ShaftFBD" src="https://github.com/user-attachments/assets/cf26e7de-3346-46a6-9336-426c2ce4cb5b" />
+
+#### Bearing FBD
+
+<img width="643" height="682" alt="BearingFBD" src="https://github.com/user-attachments/assets/1542f84c-c9d7-41a3-93a0-bd88334f7edc" />
+
+And a great many calculations made
+
+### Calculations
+
+[A8 Calculations PDF](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8Calculations.pdf)
+
+<img width="4932" height="1015" alt="A8Calculations" src="https://github.com/user-attachments/assets/ac4a9596-6aba-4430-a70c-4f8fd7ff9b9f" />
+
+
+
+
 
 
 
