@@ -3,6 +3,9 @@
 ## Objective
 The objective for this project were to learn and apply common mechanical theory of gears to a simple gearbox design.
 
+<img width="996" height="611" alt="Screenshot 2026-10-29 063406" src="https://github.com/user-attachments/assets/8daa3355-6bdf-47f2-bbe5-4bb691b42a8a" />
+
+
 ### Project Files [for the downloadin']
 
 #### Gearbox Assembly
