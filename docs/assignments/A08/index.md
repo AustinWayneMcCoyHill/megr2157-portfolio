@@ -57,11 +57,25 @@ The objective for this project were to learn and apply common mechanical theory 
 
 [A8 Output Bearing PDF](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8OutputShaft.pdf)
 
+#### Gears
+
+[A8 Input Gear Model](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8InputGear.SLDPRT)
+
+[A8 Output Gear Model](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8OutputGear.SLDPRT)
+
+[A8 Input Gear Drawing](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8InputGear.SLDDRW)
+
+[A8 Output Gear Drawing](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8OutputGear.SLDDRW)
+
+[A8 Input Gear PDF](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8InputGear.pdf)
+
+[A8 Output Gear PDF](https://github.com/AustinWayneMcCoyHill/megr2157-portfolio/raw/main/docs/assignments/A08/A8OutputGear.pdf)
 
 
 
 
 ## Analyze
+[A8FBD.pdf](https://github.com/user-attachments/files/34127719/A8FBD.pdf)
 
 
 
