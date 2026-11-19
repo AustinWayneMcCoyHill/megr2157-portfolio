@@ -176,8 +176,6 @@ This puts the machined diameter of the bearing side (bottom, or ODE if you're na
 Also per table 9a of Machinery's Handbook, the hole tolerance for a 0.250" nominal RC3 fit is +0.0000 / +0.0006.
 This puts the final hole size of the bearing at 0.2503 +/- 0.0003".
 
-
-
 #### Volumetrics
 Bearings are seldom useful if they do not stay in place about the axis of rotation.
 This means that we're going to have to find some way of securing the bearing into place relative to the frame of the machnine.
@@ -242,14 +240,6 @@ Totals
 <img width="913" height="593" alt="image" src="https://github.com/user-attachments/assets/4326a867-85c5-4a48-b5b5-243663fe6512" />
 
 <img width="445" height="683" alt="image" src="https://github.com/user-attachments/assets/ec9bfabe-42ac-452f-b5ed-7afde84947a9" />
-
-
-
-
-
-
-
-
 
 ## Communicate
 
